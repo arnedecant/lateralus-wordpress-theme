@@ -17,6 +17,6 @@
 - portfolio with filters
 - blog
 
-# Plugins // third-party software
+## Plugins // third-party software
 - https://wordpress.org/plugins/tiny-compress-images/
 - https://wordpress.org/plugins/wordpress-seo/
