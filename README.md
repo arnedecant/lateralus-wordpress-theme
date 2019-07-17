@@ -13,6 +13,7 @@
 - multilingual
 - google maps
 - 360 viewer
+- slicer
 - image with clickable hotspots
 - portfolio with filters
 - blog
